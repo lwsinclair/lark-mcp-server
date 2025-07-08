@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/junyuan-qi-lark-mcp-server-badge.png)](https://mseep.ai/app/junyuan-qi-lark-mcp-server)
+
 # Lark MCP Server
 
 A Model Context Protocol (MCP) server implementation for Lark/Feishu, enabling MCP-compatible applications to interact with Lark's various collaboration capabilities.
